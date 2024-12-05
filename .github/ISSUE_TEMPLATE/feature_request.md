@@ -7,14 +7,22 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!--- Provide a general summary of the feature request in the Title above -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Expected Behavior
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+<!--- Tell us how it should work -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Current Behavior
+
+<!--- Explain the difference from current behavior -->
+
+## Possible Solution
+
+<!--- (Optional) suggest ideas on how to implement the addition or change -->
+
+
+## Context
+
+<!--- How has this issue affected you? What are you trying to accomplish? -->
+<!--- Providing context helps us come up with a solution that is most useful in the real world -->
